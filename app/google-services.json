@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "576893171755",
+    "project_id": "fir-lessonphone",
+    "storage_bucket": "fir-lessonphone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576893171755:android:bd00068f7b46f2e712526e",
+        "android_client_info": {
+          "package_name": "com.example.firebaselesson1extra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576893171755-s7jhec2go5r6aa74f0jd0jan1s3r11pb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaselesson1extra",
+            "certificate_hash": "7caf756df097cbd34107ab5d0ad5519f67bec215"
+          }
+        },
+        {
+          "client_id": "576893171755-gv49simrlknbp0a13geegd4evjqv63hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8RP7vnC_QATmfBbDFjcpj1YO6pUOj4p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576893171755-gv49simrlknbp0a13geegd4evjqv63hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
