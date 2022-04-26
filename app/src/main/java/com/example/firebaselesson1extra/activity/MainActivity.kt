@@ -29,7 +29,6 @@ class MainActivity : AppCompatActivity() {
         initViews()
 
     }
-
     private fun initViews() {
 
         firebaseAuth = FirebaseAuth.getInstance()
